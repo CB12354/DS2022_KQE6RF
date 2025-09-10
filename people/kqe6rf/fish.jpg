@@ -1,0 +1,11 @@
+--2025-09-10 13:47:40--  https://www.google.com/url?sa=i
+Resolving www.google.com (www.google.com)... 142.251.163.104, 142.251.163.106, 142.251.163.103, ...
+Connecting to www.google.com (www.google.com)|142.251.163.104|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘url?sa=i’
+
+     0K .                                                      20.0M=0s
+
+2025-09-10 13:47:41 (20.0 MB/s) - ‘url?sa=i’ saved [1456]
+
