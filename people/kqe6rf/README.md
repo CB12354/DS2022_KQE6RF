@@ -1,6 +1,6 @@
 # Cameron Berryman
 
-![While I don't have an image of myself on my computer, I have this image that proves I know how to add an image.](./fish.jpg)
+![I swear this is in the same directory, I have no idea why it's not rendering. The link isn't broken either.](./fish.jpg)
 
 - Hobbies: Digital art, video games, creative writing
 - Spyname: Verily Norman, P.I.
