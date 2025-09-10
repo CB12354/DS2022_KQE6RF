@@ -1,6 +1,6 @@
 # Cameron Berryman
 
-![While I don't have an image of myself on my computer, I have this image that proves I know how to add an image.](fish.jpg)
+![While I don't have an image of myself on my computer, I have this image that proves I know how to add an image.](./fish.jpg)
 
 - Hobbies: Digital art, video games, creative writing
 - Spyname: Verily Norman, P.I.
